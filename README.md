@@ -1,7 +1,7 @@
 # Hi, I am Nandini Monpara
 
 # 💫 About Me:
-🎓 Aspiring **Data Scientist & Analyst** & passionate **AI/ML Enthusiast**  <br>🔍 Exploring data-driven solutions through Machine Learning, Web Scraping, and NLP  <br>💡 Curious mind with a love for building real-world projects that combine tech + impact
+🎓 Data Scientist & Analyst | Turning Data into Intelligent Solutions <br>🔍 Turning data-driven solutions through Machine Learning, Web Scraping, and NLP  <br>💡 Love building real-world projects that combine tech + impact
 
 
 ## 🌐 Socials:
